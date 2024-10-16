@@ -37,8 +37,8 @@ These commands should print the version numbers of Node.js and npm (Node's packa
 First, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/humdek-unibe-ch/sh-send_invitation_link.git
+cd sh-send_invitation_link
 ```
 
 ### 2. Install Dependencies
